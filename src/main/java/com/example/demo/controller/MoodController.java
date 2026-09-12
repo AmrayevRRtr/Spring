@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import org.example.practice1.service.MoodService;
+import com.example.demo.service.MoodService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
